@@ -1,0 +1,162 @@
+1 .
+
+ <html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>guvi</h1>
+        <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+                <div>
+                    Guvi Geek Network
+                </div>
+    </body>
+    </html>
+
+2 .
+
+<html lang="en">
+
+    <head>
+    <title>Document</title>
+    <body>
+         <h1>guvi</h1> 
+
+        <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+         <div>
+        Guvi Geek Network
+         </div>
+    </body>
+    </head>
+
+    </html>
+
+3 .
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact us</title>
+</head>
+<body>
+    <section>
+        <h1>Our Office</h1>
+        <form>
+            <br>
+            <label><b>Address:</b> 121, riche street, chennai - 620250</label>
+            <br>
+            <lable><b>Mobile:</b> +91 5245358248</lable>
+            <br>
+            <lable><b>Email:</b> raha@gmail.com</lable>
+            <br>
+        </form>
+    </section>
+    
+</body>
+</html>
+
+4. 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unorder line</title>
+</head>
+<body>
+    <section>
+        <ul>
+            <li>Programming language</li>
+            <ul>
+                <li>javascript</li>
+               <ol type="a">
+                <li>angular</li>
+                <li>react</li>
+                <li>vue.js</li>
+               </ol>
+               <li>python</li>
+               <ol type="a">
+                <li>django framework</li>
+                <li>Flask framework</li>
+               </ol>
+               <li>java</li>
+               <ol type="a">
+                <li>spring</li>
+                <li>maven</li>
+                <li>hibernate</li>
+               </ol>
+            </ul>
+            <li>database</li>
+            <ul>
+                <li>Mysql</li>
+                <li>mangodb</li>
+                <li>cansandra</li>
+            </ul>
+        </ul>
+    </section>
+    
+</body>
+</html>
+
+5. 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELEMENT</title>
+</head>
+<body>
+    
+    <a href="https://google.com/" target="_blank"> Search</a>
+</body>
+</html>
+
+6. 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee type</title>
+</head>
+<body>
+    <form>
+        <h3>Employee details</h3>
+        <br>
+        <label><b>Employee:</b></label>
+            <input type="radio" name="Employee" value="salaried"><label>salaried</label>
+            <input type="radio" name="Employee" value="Own business"><label>Own business</label>
+    </form>
+</body>
+</html>
+
+7. 
+
+9.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>highlight</title>
+</head>
+<body>
+    <p><mark>"HTML & CSS is awesome"</mark></p>
+</body>
+</html>

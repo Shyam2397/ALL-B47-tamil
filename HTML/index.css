@@ -1,0 +1,27 @@
+.heading3{
+    background-color: grey;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border: 2px solid black;
+    font-size: xx-large;
+}
+.menu{
+    width: 30px;
+    height: 25px;
+}
+.img{
+    width: 25px;
+    padding: 5px;
+    text-align: center;
+}
+.class{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.total{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

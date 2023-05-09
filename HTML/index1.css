@@ -1,0 +1,21 @@
+.total-position{
+    background-color: aqua;
+    height: 500px;
+}
+.position-rel{
+    position: absolute;
+    background-color: blueviolet;
+    margin-top: 200px;
+}
+.position-abso{
+    position: absolute;
+    background-color: blueviolet;
+    margin-top: 100px;
+}
+.p-fixed{
+    background-color: blue;
+    position: fixed;
+    bottom: 10;
+    right: 5;
+    font-size: x-large;
+}
