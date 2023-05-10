@@ -1,0 +1,38 @@
+.lcolor{
+    background-color: blanchedalmond;
+    font-weight: bold;
+}
+.lcolor::after{
+    content: "*";
+    color: red;
+}
+.scolor{
+    color: gold;
+}
+.headA::after{
+    content: "*";
+    color: red;
+}
+.watermark{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.1;
+    color: black;
+    font-size: 150px;
+    margin: 350px;
+}
+.name{
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+}
+.slogan{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    text-decoration: underline;
+    color: slategray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
